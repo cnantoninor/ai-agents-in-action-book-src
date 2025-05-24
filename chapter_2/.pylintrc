@@ -1,0 +1,4 @@
+[MESSAGES CONTROL]
+disable=missing-module-docstring
+; add additional commonly ignored directives here
+disable=missing-function-docstring
